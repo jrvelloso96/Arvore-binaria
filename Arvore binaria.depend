@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1647307456 source:c:\users\jrvel\documents\merge sort\arvore binaria\main.cpp
+	<iostream>
+	"Arvore binaria.h"
+
+1647307316 c:\users\jrvel\documents\merge sort\arvore binaria\arvore binaria.h
+
+1647307505 source:c:\users\jrvel\documents\merge sort\arvore binaria\arvore binaria.cpp
+	<iostream>
+	<queue>
+	"Arvore binaria.h"
+
+1647397494 source:c:\users\jrvel\desktop\arvore binaria\arvore binaria.cpp
+	<iostream>
+	<queue>
+	"Arvore binaria.h"
+
+1647397837 c:\users\jrvel\desktop\arvore binaria\arvore binaria.h
+
+1647398477 source:c:\users\jrvel\desktop\arvore binaria\main.cpp
+	<iostream>
+	<conio.h>
+	"Arvore binaria.h"
+
